@@ -16,8 +16,9 @@ In this project, you can do the following:
 ## Features
 *User Management: Admin can add, modify, and delete book in the library.
 ## Technologies Used
-*Frontend: React.js, HTML, CSS, JavaScript
-*Backend: Java,SpringBoot
-*Database: MySql
-*Authentication: Postman
+Following Technologies are used to create complete application
+*Frontend: React.js, HTML, CSS, JavaScript.
+*Backend: Java,SpringBoot.
+*Database: MySql.
+*Authentication:Postman.
   
