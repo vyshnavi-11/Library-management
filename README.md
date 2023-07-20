@@ -14,7 +14,7 @@ In this project, you can do the following:
 * Validity Checking of each field
 * Alerts of each Actions
 ## Features
-*User Management: Admin can add, modify, and delete book in the library.
+* User Management: Admin can add, modify, and delete book in the library.
 ## Technologies Used
 Following Technologies are used to create complete application
 * Frontend: React.js, HTML, CSS, JavaScript.
